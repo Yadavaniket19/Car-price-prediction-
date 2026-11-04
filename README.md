@@ -99,6 +99,13 @@ jupyter notebook CarDekho_price_prediction.ipynb
 ```bash
 streamlit run app.py
 ```
+---
 
+## 👤 Author
+- **Aniket Yadav**
+- GitHub: [@Yadavaniket19](https://github.com/Yadavaniket19)
+
+---
+⭐️ If you found this project helpful, please consider giving it a star!
 
 
